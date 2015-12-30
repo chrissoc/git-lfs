@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/spf13/pflag"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/spf13/pflag"
 )
 
 const (

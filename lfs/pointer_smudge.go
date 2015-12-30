@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/cheggaaa/pb"
-	"github.com/github/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/cheggaaa/pb"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
 )
 
 func PointerSmudgeToFile(filename string, ptr *Pointer, download bool, cb CopyCallback) error {

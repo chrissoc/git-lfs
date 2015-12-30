@@ -12,7 +12,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/github/git-lfs/lfs"
+	"github.com/chrissoc/git-lfs/lfs"
 )
 
 var (

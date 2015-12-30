@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/github/git-lfs/lfs"
-	"github.com/github/git-lfs/vendor/_nuts/github.com/spf13/cobra"
+	"github.com/chrissoc/git-lfs/lfs"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/spf13/cobra"
 )
 
 var (

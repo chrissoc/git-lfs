@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/github/git-lfs/git"
+	"github.com/chrissoc/git-lfs/git"
 )
 
 var (

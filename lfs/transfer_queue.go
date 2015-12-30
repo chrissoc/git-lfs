@@ -4,8 +4,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/github/git-lfs/git"
-	"github.com/github/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
+	"github.com/chrissoc/git-lfs/git"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
 )
 
 const (

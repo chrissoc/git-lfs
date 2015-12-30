@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	flag "github.com/github/git-lfs/vendor/_nuts/github.com/spf13/pflag"
+	flag "github.com/chrissoc/git-lfs/vendor/_nuts/github.com/spf13/pflag"
 )
 
 // Example 1: A single string flag called "species" with default value "gopher".

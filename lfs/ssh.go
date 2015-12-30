@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
 )
 
 type sshAuthResponse struct {

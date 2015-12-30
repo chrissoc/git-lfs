@@ -9,7 +9,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
 )
 
 // getCreds gets the credentials for the given request's URL, and sets its

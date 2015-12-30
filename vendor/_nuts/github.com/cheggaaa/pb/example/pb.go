@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/github/git-lfs/vendor/_nuts/github.com/cheggaaa/pb"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/cheggaaa/pb"
 	"time"
 )
 

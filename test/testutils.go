@@ -19,8 +19,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/github/git-lfs/git"
-	"github.com/github/git-lfs/lfs"
+	"github.com/chrissoc/git-lfs/git"
+	"github.com/chrissoc/git-lfs/lfs"
 )
 
 type RepoType int

@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/rubyist/tracerx"
 )
 
 type transferStats struct {

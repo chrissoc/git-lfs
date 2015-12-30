@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"text/tabwriter"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/kr/text"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/kr/text"
 )
 
 const (

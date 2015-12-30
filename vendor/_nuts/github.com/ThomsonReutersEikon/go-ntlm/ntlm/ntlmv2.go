@@ -7,7 +7,7 @@ import (
 	rc4P "crypto/rc4"
 	"encoding/binary"
 	"errors"
-	l4g "github.com/github/git-lfs/vendor/_nuts/github.com/ThomsonReutersEikon/log4go"
+	l4g "github.com/chrissoc/git-lfs/vendor/_nuts/github.com/ThomsonReutersEikon/log4go"
 	"strings"
 	"time"
 )

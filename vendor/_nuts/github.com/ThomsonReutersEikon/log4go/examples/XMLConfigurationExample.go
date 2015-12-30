@@ -1,6 +1,6 @@
 package main
 
-import l4g "github.com/github/git-lfs/vendor/_nuts/code.google.com/p/log4go"
+import l4g "github.com/chrissoc/git-lfs/vendor/_nuts/code.google.com/p/log4go"
 
 func main() {
 	// Load the configuration (isn't this easy?)

@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/github/git-lfs/vendor/_nuts/github.com/technoweenie/assert"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/technoweenie/assert"
 )
 
 func TestSSHGetExeAndArgsSsh(t *testing.T) {

@@ -5,9 +5,9 @@ import (
 	"sort"
 	"testing"
 
-	. "github.com/github/git-lfs/lfs"
-	"github.com/github/git-lfs/test"
-	"github.com/github/git-lfs/vendor/_nuts/github.com/technoweenie/assert"
+	. "github.com/chrissoc/git-lfs/lfs"
+	"github.com/chrissoc/git-lfs/test"
+	"github.com/chrissoc/git-lfs/vendor/_nuts/github.com/technoweenie/assert"
 )
 
 func TestAllCurrentObjectsNone(t *testing.T) {
