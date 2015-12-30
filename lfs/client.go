@@ -242,6 +242,8 @@ func Batch(objects []*ObjectResource, operation string) ([]*ObjectResource, erro
 
 		if IsAuthError(err) {
 			setAuthType(res)
+			// remove any related ssh cache files since the cache is bad (if there is one at all)
+			sshClearAuthenticateCache(operation)
 			return Batch(objects, operation)
 		}
 
